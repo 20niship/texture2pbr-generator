@@ -1,0 +1,12 @@
+[project]
+name = "texture2pbr-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "img2texture>=1.1.2.post2",
+    "onnxruntime>=1.21.1",
+    "opencv-python>=4.11.0.86",
+]
+
