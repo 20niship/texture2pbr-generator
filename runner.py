@@ -172,4 +172,5 @@ def runner_main(fimg: PathLike, do_seamless: bool = False) -> dict:
         "roughness": roughness_img,
         "occlusion": occlusion_img,
         "height": height_img,
+        "basecolor": img,
     }
