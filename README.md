@@ -21,6 +21,12 @@ uv run main.py
 
 Then, you can show normal, roughness, ambient occlusion textures generated from photo image.
 
+input image: 
+![alt text](example.jpg)
+
+output images:
+
+![](screenshot/result1.png)
 
 ## references
 
